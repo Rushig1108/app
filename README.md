@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Notes App
 This is a simple notes app built with React and Django.
 
@@ -28,3 +29,6 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+=======
+# app
+>>>>>>> 744c3cb365ee87981fa930c3daa335fed1c6a20f
